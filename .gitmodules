@@ -1,0 +1,12 @@
+[submodule "deps/tl-cpputils"]
+	path = deps/tl-cpputils
+	url = https://github.com/avast-tl/tl-cpputils
+[submodule "deps/yaracpp"]
+	path = deps/yaracpp
+	url = https://github.com/avast-tl/yaracpp
+[submodule "deps/yaramod"]
+	path = deps/yaramod
+	url = https://github.com/avast-tl/yaramod
+[submodule "deps/fileformat"]
+	path = deps/fileformat
+	url = https://github.com/avast-tl/fileformat
